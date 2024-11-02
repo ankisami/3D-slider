@@ -27,7 +27,6 @@ function App() {
     dragon10,
   ];
 
-  console.log(dragons.length);
   return (
     <div className="banner">
       <div
@@ -43,6 +42,19 @@ function App() {
             <img src={dragon} alt={`dragon_${index + 1}`} />
           </div>
         ))}
+      </div>
+      <div className="content">
+        <h1 data-content="CSS ONLY">CSS ONLY</h1>
+        <div className="author">
+          <a
+            href="https://github.com/ankisami"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Visit my github
+          </a>
+        </div>
+        <div className="model" />
       </div>
     </div>
   );
