@@ -1,7 +1,5 @@
-# 3D Image Slider
-
-
 <div align="center">
+  <h1>3D Image Slider</h1>
   <img src="https://github.com/user-attachments/assets/fee7abc9-9ab1-4ddc-b364-447932b59346" alt="Screen Recording 2024-11-02 at 20:23:19 1" />
 </div>
 
