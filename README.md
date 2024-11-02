@@ -1,8 +1,9 @@
 # 3D Image Slider
 
 
-![ScreenRecording2024-11-02at20 23 191-ezgif com-optimize](https://github.com/user-attachments/assets/fee7abc9-9ab1-4ddc-b364-447932b59346)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fee7abc9-9ab1-4ddc-b364-447932b59346" alt="Screen Recording 2024-11-02 at 20:23:19 1" />
+</div>
 
 
 ## Overview
