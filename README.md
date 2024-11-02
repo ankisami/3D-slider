@@ -1,5 +1,10 @@
 # 3D Image Slider
 
+
+![ScreenRecording2024-11-02at20 23 191-ezgif com-optimize](https://github.com/user-attachments/assets/fee7abc9-9ab1-4ddc-b364-447932b59346)
+
+
+
 ## Overview
 
 The 3D Image Slider project is a visually engaging and interactive slider that showcases a collection of images in a 3D carousel format. This project is built with React, Vite, and TypeScript, making it a modern and efficient web application. It leverages CSS variables for dynamic styling and ensures a smooth and responsive user experience.
