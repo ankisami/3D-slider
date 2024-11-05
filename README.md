@@ -6,6 +6,8 @@
 
 ## Overview
 
+[url: Live Demo](https://3-d-slider-mauve.vercel.app/)
+
 The 3D Image Slider project is a visually engaging and interactive slider that showcases a collection of images in a 3D carousel format. This project is built with React, Vite, and TypeScript, making it a modern and efficient web application. It leverages CSS variables for dynamic styling and ensures a smooth and responsive user experience.
 
 ## Features
